@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polyhedron_rotation", "polyhedron_rotation\polyhedron_rotation.csproj", "{A2B69B42-D3F5-472E-8181-A89E4837F051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B69B42-D3F5-472E-8181-A89E4837F051}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B69B42-D3F5-472E-8181-A89E4837F051}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B69B42-D3F5-472E-8181-A89E4837F051}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B69B42-D3F5-472E-8181-A89E4837F051}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36F76E41-E65A-4379-A0EB-B8706A5DDC01}
+	EndGlobalSection
+EndGlobal
